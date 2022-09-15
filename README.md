@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Rickylss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rickylss&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rickylss&layout=compact)](https://github.com/Rickylss/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rickylss&layout=compact&theme=radical)](https://github.com/Rickylss/github-readme-stats)
