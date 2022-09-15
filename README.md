@@ -18,3 +18,10 @@ Here are some ideas to get you started:
 ![Rickylss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rickylss&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rickylss&layout=compact&theme=radical)](https://github.com/Rickylss/github-readme-stats)
+
+<a href="https://github.com/Rickylss/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rickylss&repo=github-readme-stats&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/Rickylss/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rickylss&repo=convoychat&show_icons=true&theme=radical" />
+</a>
