@@ -31,12 +31,13 @@ Here are some ideas to get you started:
 
 
 
+
 ### Recent Blog Posts
 
 
+* [docker windows with winget](https://www.rickylss.site/windows/container/2023/08/21/docker-windows-with-winget/)
+* [docker windows with buildtool](https://www.rickylss.site/windows/container/2023/08/21/docker-windows-with-buildtool/)
 * [nvidia k8s device plugin](https://www.rickylss.site/container/2022/08/21/nvidia-device-pluign/)
 * [namespaces](https://www.rickylss.site/container/2022/03/22/namespaces/)
 * [关于面试](https://www.rickylss.site/others/2022/03/18/about-interview/)
-* [docker 代理设置](https://www.rickylss.site/network/docker/2022/03/17/docker-proxy/)
-* [topsec for ubuntu21/22](https://www.rickylss.site/network/2022/03/14/ubuntu-topsec/)
 <!-- placeholder -->
